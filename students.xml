@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+
+<students>
+    <student>
+        <name>Tulja</name>
+        <rollno>101</rollno>
+        <course>BCA</course>
+    </student>
+
+    <student>
+        <name>Raajau</name>
+        <rollno>102</rollno>
+        <course>BSc IT</course>
+    </student>
+</students>
